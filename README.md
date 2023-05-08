@@ -66,3 +66,11 @@ Further support resources can be found on Kinesis.com:
 
 * https://kinesis-ergo.com/support/kb360pro/#firmware-updates
 * https://kinesis-ergo.com/support/kb360pro/#manuals
+
+
+# Note to self 
+## macros
+ - `ctrl` + `shift` + `=` = `=>`
+ 
+## keymap
+- move `left` `right` to right hand module to replicate the up down laft right
