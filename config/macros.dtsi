@@ -1,3 +1,9 @@
+macro_lambda: macro_lambda{
+compatible = "zmk,behavior-macro";
+label = "macro_lambda";
+#binding-cells = <0>;
+bindings = <&kp EQUAL>, <&kp GREATER_THAN>;
+};
 macro_quotes: macro_quotes{
 compatible = "zmk,behavior-macro";
 label = "macro_quotes";
