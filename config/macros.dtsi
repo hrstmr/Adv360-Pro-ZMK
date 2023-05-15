@@ -1,3 +1,15 @@
+macro_down3x: macro_down3x{
+compatible = "zmk,behavior-macro";
+label = "macro_down3x";
+#binding-cells = <0>;
+bindings = <&kp DOWN>, <&kp DOWN>, <&kp DOWN>;
+};
+macro_up3x: macro_up3x{
+compatible = "zmk,behavior-macro";
+label = "macro_up3x";
+#binding-cells = <0>;
+bindings = <&kp UP>, <&kp UP>, <&kp UP>;
+};
 macro_lambda: macro_lambda{
 compatible = "zmk,behavior-macro";
 label = "macro_lambda";
